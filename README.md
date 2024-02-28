@@ -1,7 +1,7 @@
 <h1>Hola, soy Diego Prada👋</h1>
 <!-- <h3>A passionate developer</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonmejia13&label=Profile%20views&color=0e75b6&style=flat" alt="brandonmejia13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonmejia13&label=Profile%20views&color=0e75b6&style=flat" alt="diegoPrada" /> </p>
 
 <p>
    Soy estudiante de ingenieria de sistemas, desarrollador de software altamente motivado y creativo, con una amplia experiencia en el  desarrollo e implementación de aplicaciones y sistemas informáticos complejos. Soy egresado del Sena en Analisis y desarrollo de sistemas de informacion  
