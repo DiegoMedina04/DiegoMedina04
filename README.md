@@ -94,33 +94,3 @@
 </p>
 
 <hr>
-
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diegoprada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoprada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoprada&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
-<hr>
-
-<h2>🤝 Conectemos</h2>
-<p>Siempre estoy abierto a colaborar en proyectos interesantes, compartir conocimientos y explorar nuevas oportunidades.</p>
-<br>
-<div align="center">
-    <a href="https://www.linkedin.com/in/diego-medina-dev04" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:tu-email@ejemplo.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-</div>
-
-<hr>
-
-<div align="center">
-    <h3>💡 "Clean code always looks like it was written by someone who cares" - Robert C. Martin</h3>
-    <p><strong>⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐</strong></p>
-</div>
